@@ -49,8 +49,8 @@
 ![image](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/1c4a7427-570e-4ab8-9019-925a476e9f0b)
 
 
-### Name:RAJA.R
-### Register Number:21222210041
+### Name: RAJA.R
+### Register Number: 212222100041
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
