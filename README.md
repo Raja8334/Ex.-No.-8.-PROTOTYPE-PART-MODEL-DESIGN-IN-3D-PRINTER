@@ -24,15 +24,18 @@
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
+![WhatsApp Image 2023-11-15 at 18 21 55_cd804d9d](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/461591ec-220b-437d-b283-4d9b25e5d681)
+
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
+![WhatsApp Image 2023-11-15 at 18 22 11_eb43abe3](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/5d8e7da7-d364-4ead-8fd1-83253df2ec80)
+
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
+![WhatsApp Image 2023-11-15 at 18 23 15_0d58383f](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/d906a3ec-fbb0-456e-ad3f-fa83665fd469)
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
 
