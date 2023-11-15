@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/1c4a7427-570e-4ab8-9019-925a476e9f0b)
+![WhatsApp Image 2023-11-15 at 18 10 36_9c20c28f](https://github.com/Raja8334/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120719634/b4599404-ba3d-432d-821f-1d7c2993e4c4)
+
 
 
 ### Name: RAJA.R
